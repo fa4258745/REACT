@@ -1,0 +1,13 @@
+#image-card {
+  height: 35vh; /* 35% of the viewport height */
+  object-fit: cover;
+  opacity: 0.8;
+}
+
+
+body {
+  background-color: #090808;
+  color: #fff;
+}
+
+
