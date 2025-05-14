@@ -1,0 +1,36 @@
+{
+  "Student": [
+    {
+      "id": "232",
+      "name": "Faraz",
+      "city": "Sehore"
+    },
+    {
+      "id": "598e",
+      "name": "",
+      "empno": "",
+      "salary": "",
+      "city": ""
+    },
+    {
+      "id": "12f7",
+      "name": "faraz",
+      "empno": "",
+      "salary": "",
+      "city": ""
+    },
+    {
+      "id": "7ac7",
+      "name": "70000",
+      "empno": "997766722",
+      "city": "sehore"
+    },
+    {
+      "id": "6072",
+      "name": "Sana",
+      "empno": "2299",
+      "city": "Sehore",
+      "salray": "29999"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+    "employee": [
+      {
+       
+        "name": "Zainab Afridi",
+        "designation": "Senior Developer",
+        "department": "Production",
+        "basic_salary": 80000,
+        "id": "4289"
+      },
+      {
+       
+        "name": "Zainab Afridi",
+        "designation": "Senior Developer",
+        "department": "Production",
+        "basic_salary": 80000,
+        "id": "b0f1"
+      },
+      {
+      
+        "name": "Zainab Afridi",
+        "designation": "Senior Developer",
+        "department": "Production",
+        "basic_salary": 80000,
+        "id": "da41"
+      },
+      {
+       
+        "name": "Zainab Afridi",
+        "designation": "Senior Developer",
+        "department": "Production",
+        "basic_salary": 80000,
+        "id": "f191"
+      },
+      {
+        "id": "ae01",
+        "name": "Syed Tahir Husain",
+        "designation": "Senior Eng",
+        "department": "PUBlic health",
+        "basic_salary": "90000"
+      }
+    ],
+    "tax":[
+      {
+        "basic":25000,
+        "ta":3000,
+        "da":4000,
+        "hra":15000
+  }
+  
+]
+  }
