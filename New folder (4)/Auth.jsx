@@ -3,7 +3,6 @@ import { myContext } from "./LoginContext"; // Importing the context we created 
 
 const AuthApp = () => { // Declaring a functional component named AuthApp
   const { user, logout } = useContext(myContext); // Extracting 'user' object and 'logout' function from context
-
   return (
     <>
       <h2>Welcome {user.name}</h2> {/* Displaying a welcome message with the user's name */}
@@ -13,7 +12,6 @@ const AuthApp = () => { // Declaring a functional component named AuthApp
         }}
       >
         CLick here {/* Button text */}
-        
       </button>
     </>
   );

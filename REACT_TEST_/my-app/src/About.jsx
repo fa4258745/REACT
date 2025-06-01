@@ -16,7 +16,6 @@ const About = () => {
     e.preventDefault();
     const api = "http://localhost:3000/Form";
     const res = await axios.post(api, input);
- 
     console.log(res);
     setData(res.data);
     alert("Data submitted successfully");

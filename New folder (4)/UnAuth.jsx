@@ -2,11 +2,10 @@ import { useState, useContext } from "react"; // Importing useState and useConte
 
 import { myContext } from "./LoginContext"; // Importing the context we created earlier
 
+
 const UnAuthApp = () => { // Declaring a functional component named UnAuthApp
   const [txtval, setTxtVal] = useState(""); // Creating a state variable 'txtval' to hold the text input, initialized as an empty string
-
   const { login } = useContext(myContext); // Extracting the 'login' function from context using useContext hook
-
   return (
     <>
       Enter name: {/* Label to prompt the user to enter their name */}
